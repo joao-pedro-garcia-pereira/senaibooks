@@ -62,7 +62,7 @@ function Pesquisa() {
 
                 }}
          />
-x
+
         { livrosPesquisados.map( livro =>(
             <Resultado>
                 <p>{livro.nome}</p>
